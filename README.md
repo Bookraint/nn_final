@@ -18,6 +18,9 @@ python deeplabv_video.py
 执行结果放置于  ./result/
 
 # Task2: 
+## Prepare
+将model.zip放入 /Task2_CIFAR-100_vit/checkpoint
+
 ## 训练：
 ```
 python train_it.py -net vit/resnet18 -gpu -lr 0.1 -method none
