@@ -23,7 +23,7 @@ python deeplabv_video.py
 
 ## 训练：
 ```
-python train_it.py -net vit/resnet18 -gpu -lr 0.1 -method none
+python train_vit.py -net vit/resnet18 -gpu -lr 0.1 -method none
 ```
 ## 结果:
 训练好的模型参数存入checkpoint文件夹下，tensorboard所画曲线存入runs文件夹下
