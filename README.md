@@ -20,14 +20,14 @@ python deeplabv_video.py
 # Task2:
 
 ## Prepare
-将下载好的预训练权重放入/Task2_Faster_Rcnn/backnone
+将下载好的预训练权重放入/faster_rcnn/backnone
 
 ## 训练
 运行train_random_init.py,train_imagenet.py和train_maskrcnn.py可以分别训练随机初始化、ImageNet预训练以及coco在Mask R-CNN预训练的Faster R-CNN模型
 
 # Task3: 
 ## Prepare
-将model.zip放入 /Task2_CIFAR-100_vit/checkpoint
+将model.zip放入 /CIFAR-100_vit/checkpoint
 
 ## 训练：
 ```
