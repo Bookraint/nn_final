@@ -17,6 +17,7 @@ python deeplabv_video.py
 ```
 执行结果放置于  ./result/
 
+最后结果位于网盘地址task1_result/文件夹下
 # Task2:
 
 ## Prepare
